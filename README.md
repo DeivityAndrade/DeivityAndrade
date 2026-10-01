@@ -21,7 +21,7 @@ Também estou cursando pós-graduação em Ciência de Dados e Inteligência Art
 | Sistemas empresariais | Delphi, Pascal, ABAP e Desenvolvimento Fiori |
 | Automação e IA | n8n, Google Sheets, agentes de IA, Claude Code e integrações via API |
 
-## Projeto em destaque
+## Projetos em destaque
 
 ### [Tô Dentro ⚽ — gestão de partidas e eventos esportivos](https://github.com/DeivityAndrade/PeladaFutebol)
 
@@ -32,6 +32,15 @@ Aplicação full stack para organizar partidas de futebol, com grupos, convites,
 - PostgreSQL, Flyway e Spring Session JDBC
 - Testes com JUnit, AssertJ e Playwright
 - Docker e GitHub Actions
+
+### [Reinos & Mercadores ⚜️ — jogo de estratégia econômica medieval](https://github.com/DeivityAndrade/reinos-e-mercadores)
+
+Jogo de estratégia em tempo real com mundo 3D estilizado e câmera 2.5D, no qual o jogador constrói seu reino, organiza cadeias de produção e conquista novas regiões.
+
+- Desenvolvido com JavaScript e Three.js
+- Campanhas, tutorial, escaramuça, editor de mapas e multiplayer online
+- IA econômica e militar para os reinos adversários
+- Aplicação instalável e compatível com funcionamento offline (PWA)
 
 ## Formação
 
