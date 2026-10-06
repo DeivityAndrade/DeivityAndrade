@@ -33,7 +33,7 @@ Aplicação full stack para organizar partidas de futebol, com grupos, convites,
 - Testes com JUnit, AssertJ e Playwright
 - Docker e GitHub Actions
 
-### [Reinos & Mercadores ⚜️ — jogo de estratégia econômica medieval](https://github.com/DeivityAndrade/reinos-e-mercadores)
+### [O Último Feudo ⚜️ — jogo de estratégia econômica medieval](https://github.com/DeivityAndrade/reinos-e-mercadores)
 
 Jogo de estratégia em tempo real com mundo 3D estilizado e câmera 2.5D, no qual o jogador constrói seu reino, organiza cadeias de produção e conquista novas regiões.
 
